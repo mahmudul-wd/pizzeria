@@ -388,7 +388,7 @@ header a h1{
     transition: .5s;
 }
 .f_button:hover{
-	box-shadow: inset 300px 0 0 0 white;
+	box-shadow: inset 160px 0 0 0 white;
 	color: #ffba00;
 }
 .modal h1{
