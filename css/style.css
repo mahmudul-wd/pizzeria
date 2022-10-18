@@ -112,7 +112,7 @@ header a h1{
 
 }
 .banner button{
-	border: 3px solid white;
+    border: 3px solid white;
     padding: 10px 40px;
     font-weight: 600;
     font-family: 'Montserrat', sans-serif;
@@ -123,6 +123,7 @@ header a h1{
     top: 410px;
     right: 327px;
     z-index: 4;
+    transition: .3s;
 }
 .banner button:hover{
 	border: 1px solid transparent;
