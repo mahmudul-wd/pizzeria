@@ -415,6 +415,10 @@ header a h1{
 .g_img img{
 	height: 100%;
 	width: 100%;
+	transition: .8s;
+}
+.g_img img:hover{
+	transform: scale(.9);
 }
 /*gallery end*/
 
