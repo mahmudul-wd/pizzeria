@@ -126,9 +126,8 @@ header a h1{
     transition: .3s;
 }
 .banner button:hover{
-	border: 1px solid transparent;
+	box-shadow: inset 190px 0 0 0 white;
 	color: #ffba00;
-	background-color: white;
 }
 .shape{
 	height: 120px;
